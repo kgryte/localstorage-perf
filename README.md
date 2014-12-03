@@ -11,6 +11,15 @@ Local Storage Performance
 ## Usage
 
 
+## Notes
+
+Other performance tests:
+
+1. [indexeddeb-vs-localstorage](http://jsperf.com/indexeddb-vs-localstorage/32)
+2. [localstorage-science](http://jsperf.com/localstorage-science)
+3. [wip](http://jsperf.com/indexeddb-versus-localstorage-perf)
+
+
 ## Tests
 
 ### Unit
